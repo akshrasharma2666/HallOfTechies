@@ -540,7 +540,18 @@ const data = [
       "https://twitter.com/77_hound",
     ],
   },
-
+  {
+    name: "Lalita Sharma",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/52304108?v=4",
+    skills: ['docker', 'kubernetes', 'python', 'flutter', 'ML', 'Ansible'],
+    link: [
+      "https://github.com/akshrasharma2666",
+      "https://linkedin.com/in/lalita-sharma-3ba39a180/",
+      "https://twitter.com/sharma_alive",
+    ],
+  }
+  
 ];
 
 
